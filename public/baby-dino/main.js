@@ -13,6 +13,5 @@ customElements.define('baby-dino', class extends HTMLElement {
 
     shadowRoot.appendChild(img);
     shadowRoot.appendChild(style);
-    // shadowRoot.appendChild(templateContent.cloneNode(true));
   }
 })
