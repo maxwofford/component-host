@@ -16,6 +16,6 @@
 - [ ] audio
 - [ ] video
 - [ ] recorder & player
-- [ ] mouse (cursor) changers
+- [x] mouse (cursor) changers
 - [x] mouse follower
   - [x] follow X or Y axis only
