@@ -7,8 +7,8 @@
   - [ ] ternary
 - [ ] magnifying tags
 - [ ] shadow text
-- [ ] blink
-- [ ] clickthrough
+- [x] blink
+- [x] clickthrough
 - [ ] spin
 - [ ] footer
 - [ ] new page (not component, but a really good card for this)
